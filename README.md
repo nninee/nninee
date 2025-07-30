@@ -46,7 +46,7 @@ Give it a prompt — it performs the entire reconnaissance process and returns s
 ### 📬 Contact Me
 
 <p align="left">
-  <a href="https://t.me/zhivogamer" target="_blank">
+  <a href="https://t.me/aura811" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
